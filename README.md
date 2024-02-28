@@ -1,7 +1,7 @@
 
 # Installation
 ```bash
-$ git clone https://github.com/TSC-ID/BruteForce Gmail.git
+$ git clone https://github.com/TSC-ID/BRUTE-FORCE-GMAIL.git
 ```
 # Command
 ```bash
